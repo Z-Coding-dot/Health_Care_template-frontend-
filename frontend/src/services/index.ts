@@ -1,0 +1,16 @@
+import { authHttp } from './auth.http';
+import { authMock } from './auth.mock';
+import { appointmentHttp } from './appointment.http';
+import { appointmentMock } from './appointment.mock';
+import { blogHttp } from './blog.http';
+import { blogMock } from './blog.mock';
+import { contactHttp } from './contact.http';
+import { contactMock } from './contact.mock';
+import { departmentsHttp } from './departments.http';
+import { departmentsMock } from './departments.mock';
+import { doctorsHttp } from './doctors.http';
+import { doctorsMock } from './doctors.mock';
+import { servicesHttp } from './services.http';
+import { servicesMock } from './services.mock';
+const useMock = import.meta.env.VITE_USE_MOCK !== 'false';
+export const serviceLayer = { auth: useMock ? authMock : authHttp, appointments: useMock ? appointmentMock : appointmentHttp, contact: useMock ? contactMock : contactHttp, doctors: useMock ? doctorsMock : doctorsHttp, services: useMock ? servicesMock : servicesHttp, departments: useMock ? departmentsMock : departmentsHttp, blog: useMock ? blogMock : blogHttp };

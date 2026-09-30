@@ -1,0 +1,10 @@
+export type Department = { id: string; icon: string; titleKey: string; descriptionKey: string; services: string[]; color: string; image: string };
+
+export const departments: Department[] = [
+  { id: 'primary-care', icon: 'stethoscope', titleKey: 'departments.primaryCare.title', descriptionKey: 'departments.primaryCare.description', services: ['family-medicine', 'child-health'], color: '#d9f1ed', image: 'https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=1000&q=82' },
+  { id: 'heart-care', icon: 'heart-pulse', titleKey: 'departments.heartCare.title', descriptionKey: 'departments.heartCare.description', services: ['cardiology', 'diagnostics'], color: '#dcecf7', image: 'https://images.unsplash.com/photo-1628348070889-cb656235b4eb?auto=format&fit=crop&w=1000&q=82' },
+  { id: 'womens-health', icon: 'flower-2', titleKey: 'departments.womensHealth.title', descriptionKey: 'departments.womensHealth.description', services: ['womens-health', 'diagnostics'], color: '#f7e1eb', image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=1000&q=82' },
+  { id: 'child-health', icon: 'baby', titleKey: 'departments.childHealth.title', descriptionKey: 'departments.childHealth.description', services: ['child-health', 'family-medicine'], color: '#f8ead8', image: 'https://images.unsplash.com/photo-1476703993599-0035a21b17a9?auto=format&fit=crop&w=1000&q=82' },
+  { id: 'mental-wellness', icon: 'brain', titleKey: 'departments.mentalWellness.title', descriptionKey: 'departments.mentalWellness.description', services: ['mental-wellness'], color: '#e9e1f4', image: 'https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=1000&q=82' },
+  { id: 'diagnostics', icon: 'scan-search', titleKey: 'departments.diagnostics.title', descriptionKey: 'departments.diagnostics.description', services: ['diagnostics'], color: '#deeee6', image: 'https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1000&q=82' },
+];

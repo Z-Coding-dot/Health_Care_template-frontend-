@@ -1,0 +1,321 @@
+{
+  "common": {
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "bookAppointment": "Book an appointment",
+    "callNow": "Call now",
+    "readMore": "Read more",
+    "search": "Search",
+    "loading": "Loading",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "backToTop": "Back to top",
+    "language": "Language",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "required": "Required",
+    "email": "Email address",
+    "phone": "Phone number",
+    "name": "Full name",
+    "message": "Message",
+    "success": "Thank you. Your request has been received.",
+    "error": "Something went wrong. Please try again."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Services",
+    "departments": "Departments",
+    "doctors": "Doctors",
+    "blog": "News & insights",
+    "contact": "Contact",
+    "login": "Sign in",
+    "signup": "Create account"
+  },
+  "home": {
+    "eyebrow": "Carewell Health",
+    "title": "Specialist care with clear next steps.",
+    "description": "Primary, specialist, diagnostic, and family care at one connected hospital network.",
+    "heroBadge": "",
+    "heroLabel": "Carewell highlights",
+    "goToSlide": "Go to slide {{number}}",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "statsPatients": "Patients cared for",
+    "statsSpecialists": "Specialists",
+    "statsLocations": "Care locations",
+    "statsSatisfaction": "Patient satisfaction",
+    "slides": {
+      "careTeam": {
+        "title": "Care that starts with listening.",
+        "subtitle": "Clear options. A plan for your next visit."
+      },
+      "specialist": {
+        "title": "Specialist care, close to home.",
+        "subtitle": "Access experienced teams for heart, family, womenâ€™s, child, and mental health."
+      },
+      "facility": {
+        "title": "One hospital network. Clearer care.",
+        "subtitle": "From your first visit to follow-up, your records and care team stay connected."
+      }
+    },
+    "quickActions": {
+      "appointment": "Book an appointment",
+      "doctor": "Find a doctor",
+      "departments": "View departments",
+      "emergency": "Call emergency"
+    },
+    "aboutEyebrow": "About Carewell",
+    "aboutTitle": "Healthcare that respects your time.",
+    "aboutDescription": "Carewell brings primary care, specialists, and diagnostics together so your next decision is easier to make.",
+    "servicesEyebrow": "Our services",
+    "servicesTitle": "The right care for today and what comes next.",
+    "servicesDescription": "Start with the service that matches your question. Our teams will guide the next step.",
+    "departmentsTitle": "Departments built around people, not paperwork.",
+    "statsTitle": "Care delivered close to home.",
+    "whyTitle": "What you can expect from Carewell.",
+    "whyItems": [
+      {
+        "title": "Clear explanations before decisions",
+        "description": "Practical support from the first question to the next visit."
+      },
+      {
+        "title": "Appointments that respect your schedule",
+        "description": "Choose a path that fits the pace of your life."
+      },
+      {
+        "title": "One team for referrals and follow-up",
+        "description": "Stay connected to the people helping you move forward."
+      }
+    ],
+    "doctorsTitle": "Meet your care team.",
+    "testimonialsTitle": "A patientâ€™s perspective.",
+    "blogTitle": "Latest health news.",
+    "ctaTitle": "Need help choosing where to start?",
+    "ctaDescription": "Call our team or request an appointment. We will direct you to the right service.",
+    "primaryCta": "Book an appointment",
+    "secondaryCta": "Find a doctor"
+  },
+  "about": {
+    "title": "Care with a human pulse",
+    "description": "We combine clinical excellence with the simple promise to listen first.",
+    "missionTitle": "Our mission",
+    "mission": "To make excellent, compassionate healthcare easier to reach for every family.",
+    "visionTitle": "Our vision",
+    "vision": "A healthier community where every person feels informed, respected, and supported.",
+    "historyTitle": "Growing with our community",
+    "teamTitle": "A team that listens",
+    "valuesTitle": "What guides us",
+    "story": "Our clinicians work across departments, sharing information and making referrals easier to understand. You should always know who to call and what happens next.",
+    "timeline": {
+      "2012": "2012",
+      "2018": "2018",
+      "2012Description": "A six-person clinic opens in Kabul.",
+      "2018Description": "Specialist and diagnostic teams join the network.",
+      "Today": "Today",
+      "TodayDescription": "Carewell continues to improve access and follow-up."
+    }
+  },
+  "services": {
+    "title": "Care designed around you",
+    "description": "Explore services built around your real life, with clear next steps and coordinated support.",
+    "all": "All services",
+    "primaryCare": "Primary care",
+    "specialty": "Specialty care",
+    "diagnostics": {
+      "title": "Diagnostics",
+      "description": "Timely tests and understandable results that move care forward.",
+      "detail": "Our diagnostics service connects imaging and testing with the clinical context your care team needs."
+    },
+    "noResults": "No services match your search yet.",
+    "detailPoints": [
+      "A plan explained in plain language",
+      "Follow-up that stays connected",
+      "Time for your questions"
+    ],
+    "detailCta": "Choose a time with the right Carewell team.",
+    "familyMedicine": {
+      "title": "Family medicine",
+      "description": "A trusted first stop for preventive care, checkups, and everyday health questions.",
+      "detail": "Our family medicine team helps you stay ahead of your health with continuity, practical guidance, and referrals when you need them."
+    },
+    "womensHealth": {
+      "title": "Womenâ€™s health",
+      "description": "Respectful, personalized care through every season of life.",
+      "detail": "From preventive screenings to ongoing support, our womenâ€™s health clinicians create a space where every question is welcome."
+    },
+    "childHealth": {
+      "title": "Child health",
+      "description": "Gentle, evidence-led care to help children grow strong and confident.",
+      "detail": "Our pediatric team supports children and caregivers with checkups, development guidance, vaccinations, and kind communication."
+    },
+    "cardiology": {
+      "title": "Heart care",
+      "description": "Clear answers and coordinated support for a healthier heart.",
+      "detail": "We combine thoughtful assessment, modern diagnostics, and practical care plans for long-term cardiovascular health."
+    },
+    "mentalWellness": {
+      "title": "Mental wellness",
+      "description": "A confidential place to talk, reflect, and find your next step.",
+      "detail": "Our mental wellness clinicians offer compassionate, culturally aware support for a wide range of life experiences."
+    }
+  },
+  "departments": {
+    "title": "Our departments",
+    "description": "Focused teams, connected expertise, and a clear path forward.",
+    "careTeam": "Care team",
+    "services": "Services in this department",
+    "primaryCare": {
+      "title": "Primary care",
+      "description": "A steady home for everyday health and prevention."
+    },
+    "heartCare": {
+      "title": "Heart care",
+      "description": "Specialist support for strong, healthy hearts."
+    },
+    "womensHealth": {
+      "title": "Womenâ€™s health",
+      "description": "Personalized care for every chapter of womanhood."
+    },
+    "childHealth": {
+      "title": "Child health",
+      "description": "Warm, expert care for growing families."
+    },
+    "mentalWellness": {
+      "title": "Mental wellness",
+      "description": "Support for your mind, your story, and your wellbeing."
+    },
+    "diagnostics": {
+      "title": "Diagnostics",
+      "description": "Clear information to guide confident decisions."
+    }
+  },
+  "doctors": {
+    "title": "Find your doctor",
+    "description": "Search by name, specialty, or department to find a clinician who fits your needs.",
+    "searchPlaceholder": "Search doctors",
+    "allDepartments": "All departments",
+    "viewProfile": "View profile",
+    "yearsExperience": "years experience",
+    "noResults": "No doctors match those filters.",
+    "roles": {
+      "familyPhysician": "Family physician",
+      "cardiologist": "Cardiologist",
+      "pediatrician": "Pediatrician",
+      "psychiatrist": "Psychiatrist",
+      "obgyn": "Womenâ€™s health physician",
+      "radiologist": "Radiologist"
+    },
+    "profileTitle": "{{name}} is here to help you plan the next step.",
+    "profileDescription": "{{name}} brings a thoughtful, evidence-led approach to each visit, with time for the questions that matter to you.",
+    "experienceLabel": "Experience",
+    "languagesLabel": "Languages",
+    "profilePoints": [
+      "Explains options clearly",
+      "Makes time for questions",
+      "Coordinates follow-up"
+    ]
+  },
+  "appointment": {
+    "title": "Book an appointment",
+    "description": "Choose a care team and a time that works for you.",
+    "stepOne": "Your care",
+    "stepTwo": "Your details",
+    "stepThree": "Confirmation",
+    "chooseDepartment": "Choose a department",
+    "chooseDoctor": "Choose a doctor",
+    "chooseDate": "Preferred date",
+    "chooseTime": "Preferred time",
+    "reason": "What can we help with?",
+    "next": "Continue",
+    "previous": "Back",
+    "confirm": "Request appointment",
+    "confirmationTitle": "Your request is on its way",
+    "confirmationDescription": "Our team will contact you shortly to confirm the best time."
+  },
+  "blog": {
+    "title": "News & insights",
+    "description": "Practical health guidance from the people who care for our community.",
+    "featured": "Featured story",
+    "minRead": "min read",
+    "categories": {
+      "wellness": "Wellness",
+      "heart": "Heart health",
+      "family": "Family care"
+    },
+    "posts": {
+      "smallSteps": {
+        "title": "Small steps that make healthy habits stick",
+        "excerpt": "A realistic approach to building routines that support your energy, sleep, and wellbeing."
+      },
+      "heartHealth": {
+        "title": "Five questions worth asking about heart health",
+        "excerpt": "A conversation with our cardiology team about prevention, family history, and everyday choices."
+      },
+      "childCheckups": {
+        "title": "Why regular child checkups matter",
+        "excerpt": "What families can expect from a thoughtful, development-focused pediatric visit."
+      }
+    }
+  },
+  "contact": {
+    "title": "We are here to help",
+    "description": "Questions, directions, feedback, or support â€” send us a note.",
+    "formTitle": "Send us a message",
+    "hoursTitle": "Opening hours",
+    "locationTitle": "Find us",
+    "emergencyTitle": "Need urgent help?",
+    "emergencyDescription": "For a life-threatening emergency, call your local emergency number.",
+    "send": "Send message",
+    "days": "Saturday â€“ Thursday",
+    "hours": "8:00 â€“ 18:00"
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "signInDescription": "Sign in to manage your care in one place.",
+    "createAccount": "Create your account",
+    "signUpDescription": "Save appointments and stay connected to your care team.",
+    "forgotPassword": "Forgot your password?",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "orContinue": "Or continue with",
+    "google": "Google",
+    "noAccount": "New to Carewell?",
+    "hasAccount": "Already have an account?",
+    "resetTitle": "Reset your password",
+    "resetDescription": "Enter your email and we will send reset instructions.",
+    "nameHint": "How should we address you?"
+  },
+  "testimonials": {
+    "amina": {
+      "quote": "Every person I met took time to explain what was happening. I left feeling calmer and more capable.",
+      "name": "Amina N.",
+      "detail": "Primary care patient"
+    },
+    "hamid": {
+      "quote": "The appointment process was simple, and the follow-up made me feel like someone was truly keeping an eye on my recovery.",
+      "name": "Hamid K.",
+      "detail": "Cardiology patient"
+    },
+    "soraya": {
+      "quote": "The team treated my daughter with patience and warmth. It made a difficult day feel manageable.",
+      "name": "Soraya M.",
+      "detail": "Parent and pediatric patient"
+    }
+  },
+  "footer": {
+    "description": "Thoughtful care for every chapter of life.",
+    "quickLinks": "Quick links",
+    "contact": "Contact",
+    "copyright": "Â© {{year}} {{name}}. All rights reserved."
+  },
+  "errors": {
+    "notFoundTitle": "This page took a wrong turn",
+    "notFoundDescription": "The page you are looking for may have moved or no longer exists.",
+    "returnHome": "Return home"
+  }
+}
